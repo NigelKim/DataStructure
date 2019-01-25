@@ -1,2 +1,2 @@
-# DataStructure
-Python Implementation of Basic Data Structures from Cracking The Coding Interview
+# Python Implementation of Basic Data Structures from Cracking The Coding Interview #
+
